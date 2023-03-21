@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "56133926-3AC1-48ED-9C60-A63DD8611004"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18B55D42-6DA2-40DA-BD2F-6D3F93D7BA99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Service/Localservice.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "download(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA99EBE9-F7B2-4153-9983-D0F88E47F1B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewModel/InterfaceViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "downloadInterfaces()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FA99EBE9-F7B2-4153-9983-D0F88E47F1B0 - 9b683f55211092fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for FoodProject.InterfaceListModel.downloadInterfaces() async -&gt; ()"
+                  moduleName = "FoodProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehmetsaiddede/Desktop/FoodProject/ViewModel/InterfaceViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "FA99EBE9-F7B2-4153-9983-D0F88E47F1B0 - 84f0e0d4bc47540d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for FoodProject.InterfaceListModel.downloadInterfaces() async -&gt; ()"
+                  moduleName = "FoodProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehmetsaiddede/Desktop/FoodProject/ViewModel/InterfaceViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "FA99EBE9-F7B2-4153-9983-D0F88E47F1B0 - 1633a01c9ecf8d61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for FoodProject.InterfaceListModel.downloadInterfaces() async -&gt; ()"
+                  moduleName = "FoodProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehmetsaiddede/Desktop/FoodProject/ViewModel/InterfaceViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC420534-EFD0-465B-A891-E36F1C829ACA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewModel/InterfaceViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "downloadInterfaces()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC420534-EFD0-465B-A891-E36F1C829ACA - 2faf2965578d2c19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FoodProject.InterfaceListModel.downloadInterfaces() async -&gt; ()"
+                  moduleName = "FoodProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehmetsaiddede/Desktop/FoodProject/ViewModel/InterfaceViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "DC420534-EFD0-465B-A891-E36F1C829ACA - 96fd06efb1f98eb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in FoodProject.InterfaceListModel.downloadInterfaces() async -&gt; ()"
+                  moduleName = "FoodProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehmetsaiddede/Desktop/FoodProject/ViewModel/InterfaceViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "513BE1E1-36EC-4926-B015-C1700152F77C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ViewModel/InterfaceViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "category"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

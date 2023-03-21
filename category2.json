@@ -1,0 +1,762 @@
+[
+  {
+    "id": 1,
+    "category": "Akşam Yemeği",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/zeytinyagli_taze_bakla-8f42cb61-b01e-4101-8219-5a3bbafe17de.jpg"
+  },
+  {
+    "id": 2,
+    "category": "İç Anadolu",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/sivas-koftesi-e9413349-bb8f-47a9-86d9-a27f8445ae84.jpg"
+  },
+  {
+    "id": 3,
+    "category": "İftar",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/firinda-gul-mantisi-a8e2888b-d001-43fe-bdad-466f39388e6c.jpg"
+  },
+  {
+    "id": 4,
+    "category": "İtalyan Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/sicilyano-da3a256f-0d57-40b9-a7c6-53475696636b.jpg"
+  },
+  {
+    "id": 5,
+    "category": "Japon Mutfağı",
+    "image": "https://lezzet.blob.core.windows.net/images-xxlarge/miso-corbasi-5410c873-22f5-48b3-9ad1-b797db10fdc3"
+  },
+  {
+    "id": 6,
+    "category": "Kabaklı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/firinda_kabak_koftesi-0fa90e69-235c-4620-bee1-e08a1cd27e73.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Kahvaltılık",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/peynirli_pide-e9659266-3ab0-45a9-9c8c-ff72468229df.jpg"
+  },
+  {
+    "id": 8,
+    "category": "Karadeniz Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/koca-kari-gerdani-tatlisi-d66dd4c8-fc02-4776-b7d7-fff4df481cd7.jpg"
+  },
+  {
+    "id": 9,
+    "category": "Kaymaklı Tatlılar",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kaymakli_kunefe-1fda980f-6b06-464f-8cbc-101155f01e3d.jpg"
+  },
+  {
+    "id": 10,
+    "category": "Kayseri Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge/gul-tatlisi-kayseri-507f06e9-37ce-462e-9182-7f7413720d3f"
+  },
+  {
+    "id": 11,
+    "category": "Kebap",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/tavuklu-bugu-kebabi-a4324ba5-437a-49bd-8633-a9bb70b364f0.jpg"
+  },
+  {
+    "id": 12,
+    "category": "Kek",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/bolo-de-laranga-b54778c0-01e1-4e81-a87a-cb66944e0d86.jpg"
+  },
+  {
+    "id": 13,
+    "category": "Kırmızı Et",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/keskekli-kuzu-tandir-64b0e029-f9de-4dd2-8bf7-6996cde3714b.jpg"
+  },
+  {
+    "id": 14,
+    "category": "Kış",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/aci-biber-tursusu-06b63aa1-09c2-45e0-9ac2-f313c655250d.jpg"
+  },
+  {
+    "id": 15,
+    "category": "Kızartma",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/lalanga-79402d0e-c59c-466a-8c1e-4c94076a9033.jpg"
+  },
+  {
+    "id": 16,
+    "category": "Kinoalı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/tahin-soslu-kinoali-patlican-ac4e29df-d378-4cf2-9a74-c64ba58fc0bf.jpg"
+  },
+  {
+    "id": 17,
+    "category": "Kiş",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/mercimekli-sebzeli-kis-b824db90-4384-4b30-97f0-63265d5cc5d8.jpg"
+  },
+  {
+    "id": 18,
+    "category": "Kolay Sütlü Tatlılar",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kar-topu-tatlisi-94859e88-6bd4-4298-ace9-f0cb694a7ff1.jpg"
+  },
+  {
+    "id": 19,
+    "category": "Konserve",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/taze-bamya-tursusu-597be179-b845-4b36-91ea-82d12ad3033d.jpg"
+  },
+  {
+    "id": 20,
+    "category": "Konya Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/sac_boregi-00da6b2f-a084-4796-ab87-c8aa1219b361.jpg"
+  },
+  {
+    "id": 21,
+    "category": "Akdeniz Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/mersin-usulu-icli-kofte-5b86dd88-958f-4a90-90ed-d353b7aed479.jpg"
+  },
+  {
+    "id": 22,
+    "category": "Alkollü Kokteyl",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/bergamot-likoru-da1741af-2f27-42c8-b237-9550154069ef.jpg"
+  },
+  {
+    "id": 23,
+    "category": "Alkolsüz İçecekler",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/domates-suyu-10531976-f6ae-44cd-ae75-1e5c085a7bb6.jpg"
+  },
+  {
+    "id": 24,
+    "category": "Amerikan Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/hot-dog-5035d61e-29e9-4909-92dc-a8c7edc621fa.jpg"
+  },
+  {
+    "id": 1,
+    "category": "Antep Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/hunkar-begendi-27ede261-f6c4-4f44-ada3-b3fb6b8dd72c.jpg"
+  },
+  {
+    "id": 25,
+    "category": "Patatesli",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/gurcu-sarmasi-f7470c53-1677-427c-a881-f06019faf93e.jpg"
+  },
+  {
+    "id": 26,
+    "category": "Patlıcanlı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/patlican_kebap-f3de03d4-4bb9-4b2a-b30a-c0ced6d59320.jpg"
+  },
+  {
+    "id": 27,
+    "category": "Peynirli",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/peynir-fondu-e3b70985-936c-48ee-95c3-a0377fef7da8.jpg"
+  },
+  {
+    "id": 28,
+    "category": "Atıştırmalık",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/sosisli-atistirmaliklar-27dc8d00-a2ce-4934-9fa9-2fef79281c3b.jpg"
+  },
+  {
+    "id": 29,
+    "category": "Avokadolu",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/avokado-karides-749a6ab5-35ac-4520-8422-6e5e05af0a4f.jpg"
+  },
+  {
+    "id": 30,
+    "category": "Bakliyat",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kalamarli-ve-salgamli-kisir-1a8ff1c7-3ba9-4003-ae32-a0db62baf1a2.jpg"
+  },
+  {
+    "id": 31,
+    "category": "Balık",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/levrek_bugulama-fb69d4a5-e311-4231-8640-39c564962d82.jpg"
+  },
+  {
+    "id": 32,
+    "category": "Bayram Tatlıları",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/hira-tatlisi-b1e45c9d-903a-446e-b471-09f30f514ffc.jpg"
+  },
+  {
+    "id": 33,
+    "category": "Bayram",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/cag-kebabi-cd114071-242b-487a-bb2b-8f8aab766f24.jpg"
+  },
+  {
+    "id": 34,
+    "category": "Börek",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/otlu_ispanakli_ve_lor_peynirli_gozleme-1fd0ca2b-8c00-4e5a-ac5a-a9d15a1824e7.jpg"
+  },
+  {
+    "id": 35,
+    "category": "Çay Saati",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/balli-cilekli-makaron-66334402-c5c3-4a0f-884c-be5ef4f8e053.jpg"
+  },
+  {
+    "id": 36,
+    "category": "Çikolatalı Tatlı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/pirinc-patlakli-cikolata-1bbc2868-f0f5-4f93-bd01-6f4fa5c7e1d3.jpg"
+  },
+  {
+    "id": 37,
+    "category": "Çin Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/cin-salatasi-91ebd2a9-cdb6-4232-84f1-fc5c5aada271.jpg"
+  },
+  {
+    "id": 38,
+    "category": "Çörek",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/zeytinli_corek-a74bf4f8-72a8-4f27-a07a-805ca8e4fd2b.jpg"
+  },
+  {
+    "id": 39,
+    "category": "Davet",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/firinda-kuzu-karski-67f81dbf-c7cf-4f4b-9b55-b401ce3535f8.jpg"
+  },
+  {
+    "id": 40,
+    "category": "Diyet Tatlı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/fistik-ezmeli-fit-brownie-99fcbeee-4e6d-4d71-8ebd-246894e7584c.jpg"
+  },
+  {
+    "id": 41,
+    "category": "Doğu Anadolu",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/dut-cullamasi-3dbcbc3d-bc9c-43ef-a2d7-bc51aaf7aed5.jpg"
+  },
+  {
+    "id": 42,
+    "category": "Dolma",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/tavuk-dolmasi-7e2147e7-4cf0-4a15-99e3-b997306c7144.jpg"
+  },
+  {
+    "id": 43,
+    "category": "Domatesli",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/currywust-sos-56112698-d59f-4983-8cac-dd4cb83bd503.jpg"
+  },
+  {
+    "id": 44,
+    "category": "Dondurmalı Tatlılar",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/elmali-cobbler-ad26afa2-6d13-42db-a056-65ebe844f063.jpg"
+  },
+  {
+    "id": 45,
+    "category": "Ege Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/heraklion-tarzi-kallistsounia-dd4d12e9-1f7d-4a66-9535-f074dc5272b9.jpg"
+  },
+  {
+    "id": 46,
+    "category": "Ekmek",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/tam_bugday_unlu_ekmek-2f264e59-fe18-4f36-be17-6b4810a45204.jpg"
+  },
+  {
+    "id": 47,
+    "category": "Elmalı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/himmel-und-erde-b800c095-d3cf-4934-bc80-5d32a1b623b0.jpg"
+  },
+  {
+    "id": 48,
+    "category": "Et",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/hamburger_koftesi-26dfcd66-3fcb-461e-9583-f8f9654db34d.jpg"
+  },
+  {
+    "id": 49,
+    "category": "Etli Çorba",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/terbiyeli-kuzu-eti-corbasi-c5d80637-3552-4d8c-a618-0c66618329f7.jpg"
+  },
+  {
+    "id": 50,
+    "category": "Farklı Et",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/beyti-kebabi-33476cbf-3328-4ff2-a239-e1df5a91a27f.jpg"
+  },
+  {
+    "id": 51,
+    "category": "Farklı Hamur İşi",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/islak-kek-f68d209f-ac71-4c5a-b4cf-ccea948080ee.jpg"
+  },
+  {
+    "id": 52,
+    "category": "Farklı Sebze",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/enginar-cips-4f09574b-3896-4736-b5cf-ea45cf01854a.jpg"
+  },
+  {
+    "id": 53,
+    "category": "Farklı Tatlı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/yulaf-pare-44d2e456-0e81-4983-9e9f-324bd9a7dfdb.jpg"
+  },
+  {
+    "id": 54,
+    "category": "Fas Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/sellou-jallab-7622dcb4-6d59-4d99-a4d2-feec8924c0e8.jpg"
+  },
+  {
+    "id": 55,
+    "category": "Fırın",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/firinda-sebzeli-et-9f7e1ff8-35f6-4ec3-bdd5-0cc0ff4ada0f.jpg"
+  },
+  {
+    "id": 56,
+    "category": "Fransız Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/portakalli-parfe-bf728624-1946-441c-8bbf-e50cd5cc8872.jpg"
+  },
+  {
+    "id": 57,
+    "category": "Glutensiz",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/glutensiz-yulafli-cikolata-parcacikli-kurabiyeler-dbebc4f8-11cb-4717-86bc-7fc2a016072b.jpg"
+  },
+  {
+    "id": 58,
+    "category": "Güneydoğu Anadolu",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/irok-52c2760f-c20a-49c4-b45d-a270255380fc.jpg"
+  },
+  {
+    "id": 59,
+    "category": "Hamburger",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kizarmis-makarna-sandvic-1f605415-3df3-4274-b8bd-c8cf85eec0d0.jpg"
+  },
+  {
+    "id": 60,
+    "category": "Hamsi",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/hamsi_guvec-b195d270-93b0-42ce-aa5c-d01254968812.jpg"
+  },
+  {
+    "id": 61,
+    "category": "Hamur İşi",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/tosunum-borek-9604c8c2-e4ce-4424-a4c5-651b31f2101a.jpg"
+  },
+  {
+    "id": 62,
+    "category": "Hatay Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/antakya-usulu-vegan-tepsi-kebabi-3cb4993c-1a42-4436-9bd7-f633b4631ceb.jpg"
+  },
+  {
+    "id": 63,
+    "category": "Hindi",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/tavuklu-lazanya-sarma-ff8189c8-5f9b-4b6b-a657-811f963ae21a.jpg"
+  },
+  {
+    "id": 64,
+    "category": "Hint Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kesmir-pilavi-hint-pilavi-d1dc32bb-c60f-420b-93c8-ba9f10df3186.jpg"
+  },
+  {
+    "id": 65,
+    "category": "Ispanaklı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/yesillikli-kutap-e9f7f626-c9b9-43d8-83f4-943b1c21cd36.jpg"
+  },
+  {
+    "id": 66,
+    "category": "Kore Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kimbap-7be98d4d-ac7b-494f-9576-e5071c77cd67.jpg"
+  },
+  {
+    "id": 67,
+    "category": "Köfte",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/tire-kofte-c02d4063-5ac7-49d4-a728-d49075f90847.jpg"
+  },
+  {
+    "id": 68,
+    "category": "Krem Peynirli",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/vegan-krem-peynir-4569def7-0397-47bf-812b-e7e8c2c02574.jpg"
+  },
+  {
+    "id": 69,
+    "category": "Kremalı Tatlılar",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/gelin-bohcasi-d53a101d-494a-4e95-ac7e-71ab66ff4832.jpg"
+  },
+  {
+    "id": 70,
+    "category": "Kurabiye",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kayisili-yulaf-bar-9c724775-2675-4008-a1f2-4886abeb1514.jpg"
+  },
+  {
+    "id": 71,
+    "category": "Kuruyemişli",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kuru-meyveli-tepsi-ekmegi-1250b534-1d8d-4f8a-aa20-9d39182349af.jpg"
+  },
+  {
+    "id": 72,
+    "category": "Levrek",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/levrek-ceviche-ac54b4fd-01b1-4ab0-8ce7-7e1f051bfe27.jpg"
+  },
+  {
+    "id": 73,
+    "category": "Lübnan Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/etli-humus-937a4c46-e7e3-4d52-84c2-02e6cb8bc53a.jpg"
+  },
+  {
+    "id": 74,
+    "category": "Makarna",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/malfatti-d59b8072-35e7-476c-935d-fbeb99b575ca.jpg"
+  },
+  {
+    "id": 75,
+    "category": "Mama",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/avokado-yelkenlisi-4387a4d5-b64d-4e9b-8f2a-c47468eb5914.jpg"
+  },
+  {
+    "id": 76,
+    "category": "Mantarlı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge/kremali-mantar-corbasi-020756-22858643-ae17-427f-aaa8-bb8165622b6f"
+  },
+  {
+    "id": 77,
+    "category": "Mantı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/cerkez_mantisi-f538a70c-9a32-422f-801c-a81e92bbe05a.jpg"
+  },
+  {
+    "id": 78,
+    "category": "Marmara",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kalin-kiyi-d0e29e21-24f8-4f94-bedd-6b5a205d4978.jpg"
+  },
+  {
+    "id": 79,
+    "category": "Meksika Mutfağı & Meksika",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/torta-ahogoda-251a3271-2462-46dd-8091-d2901cb15abf.jpg"
+  },
+  {
+    "id": 80,
+    "category": "Meyveli Tatlı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/baharatli-akca-armut-30133df8-4986-45c8-8c66-67348ba926cc.jpg"
+  },
+  {
+    "id": 81,
+    "category": "Meze",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/yogurtlu-patates-salatasi-8dd71a02-50a5-4448-9f12-3b8d87103f0a.jpg"
+  },
+  {
+    "id": 82,
+    "category": "Milföylü",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/sodali_mercimek_boregi-28564dc8-6d57-482b-a0ad-477ed89c36c1.jpg"
+  },
+  {
+    "id": 83,
+    "category": "Muzlu",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/muz-kremali-ve-kahveli-kek-e52a8abc-aea2-48d3-8315-127ce71bf00a.jpg"
+  },
+  {
+    "id": 84,
+    "category": "Osmanlı Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/paluze-95a36f01-0a58-488c-9329-5b1f0c9cf1eb.jpg"
+  },
+  {
+    "id": 85,
+    "category": "Öğle Yemeği",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kestaneli-ve-terbiyeli-kereviz-287866fb-d8fa-45ed-8f50-c709153d3044.jpg"
+  },
+  {
+    "id": 86,
+    "category": "Palamut",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/guvecte-sebzeli-palamut-88304c26-c3ea-4847-a2a6-72777a1f5fc6.jpg"
+  },
+  {
+    "id": 87,
+    "category": "Pankek",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/cikolatali-orman-meyveli-pancake-7d5a4049-a38b-4e96-81ba-9e0f28971866.jpg"
+  },
+  {
+    "id": 88,
+    "category": "Pasta",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/cikolatali_rulo_pasta-3a110a34-cbbe-4599-966d-8df7a51a50da.jpg"
+  },
+  {
+    "id": 89,
+    "category": "Pırasalı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/besamel-soslu-pirasa-437c6f10-cb70-4415-b287-3fc2e619c0ed.jpg"
+  },
+  {
+    "id": 90,
+    "category": "Pide",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/khachapuri---hacapuri---3-peynirli-yumurtali-pide-16767903-9aa5-4ce5-9aae-e420da3c03b0.jpg"
+  },
+  {
+    "id": 91,
+    "category": "Pilav",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/mercimekli-bulgur-pilavi-21da3df9-9892-4793-a262-c2bfb79b602a.jpg"
+  },
+  {
+    "id": 92,
+    "category": "Pizza",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/yilbasi-pizzasi-f68b8bd4-dd93-44ed-99e9-97977aa8abbb.jpg"
+  },
+  {
+    "id": 93,
+    "category": "Poğaça",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/yumusak-pogaca-4d9c8035-b881-4510-957b-3c33a8a8c2a9.jpg"
+  },
+  {
+    "id": 94,
+    "category": "Pratik Hamur İşi",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/pide-ustu-ev-doneri-ccb3376a-58a3-4ec2-b222-3de4b902d662.jpg"
+  },
+  {
+    "id": 95,
+    "category": "Pratik Kek",
+    "image": "https://i.lezzet.com.tr/images-xxlarge/bol-soslu-islak-kek-d7ba240e-cc3e-4f80-9dab-59aeba9fa6cf"
+  },
+  {
+    "id": 96,
+    "category": "Pratik Pasta",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/cilekli-pasta-cdfe598d-00ec-4810-b89f-674a10594f86.jpg"
+  },
+  {
+    "id": 97,
+    "category": "Pratik Tatlı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kestaneli-uludag-pastasi-a4b3a551-c003-4833-8e71-5281a829e268.jpg"
+  },
+  {
+    "id": 98,
+    "category": "Reçel",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/elma_receli-acf27f91-10f9-4e5a-aaba-6e071e3a4dc5.jpg"
+  },
+  {
+    "id": 99,
+    "category": "Sahur",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/rafadan-yumurta-0476326b-37ce-4c62-9b05-7cedc37709ea.jpg"
+  },
+  {
+    "id": 100,
+    "category": "Salata",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/somon-salatasi-a366b356-b611-41a7-97c2-db879281751c.jpg"
+  },
+  {
+    "id": 101,
+    "category": "Sandviç",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kahvaltilik-bagel-sandvic-c37acd90-3a63-460f-bb9f-811b1e6673dc.jpg"
+  },
+  {
+    "id": 102,
+    "category": "Sarma",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/visne-eksisi-soslu-lahana-sarma-710bb933-a475-49d0-b8e9-9ad86b7a9904.jpg"
+  },
+  {
+    "id": 103,
+    "category": "Sebze",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/havuc-pilaki-04bb89e1-18ac-4edd-af9d-da2e2f24a68c.jpg"
+  },
+  {
+    "id": 104,
+    "category": "Sebzeli Çorbalar",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/sebzeli-kabak-corbasi-9aae12e4-2e1c-4eec-9b11-9bee6bd41964.jpg"
+  },
+  {
+    "id": 105,
+    "category": "Sebzeli Köfte",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kabak-koftesi-ec49fbd0-f656-42df-b8c2-2e1221c6f35b.jpg"
+  },
+  {
+    "id": 106,
+    "category": "Sıcak Alkollü Kokteyl",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/tatli-yaninda-konyakli-kahve-e337f0b7-66ed-4e9a-aa1b-a2d6b6af96be.jpg"
+  },
+  {
+    "id": 107,
+    "category": "Sıcak İçecek",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/sicak-cikolata-fb639715-d1c8-44fe-a0a4-1f2d79908b93.jpg"
+  },
+  {
+    "id": 108,
+    "category": "Sıcak İçecekler",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/white-chocolate-mocha-8b8c07dc-6143-4edf-bfd6-78b7d6afe240.jpg"
+  },
+  {
+    "id": 109,
+    "category": "Sizden Çorba",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/sebzeli-kabak-corbasi-9aae12e4-2e1c-4eec-9b11-9bee6bd41964.jpg"
+  },
+  {
+    "id": 110,
+    "category": "Sizden Et",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/incik-1b7df835-4f85-4245-a9e5-f678258921ef.jpg"
+  },
+  {
+    "id": 111,
+    "category": "Sizden Hamur İşi",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/elmali-ve-havuclu-kurabiye-b612039e-7f8f-4c43-93e6-a0e67b381181.jpg"
+  },
+  {
+    "id": 112,
+    "category": "Sizden Kahvaltılık",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/patatesli-mayali-pogaca-6fbc7598-fce3-473b-a3dc-63400201fb7d.jpg"
+  },
+  {
+    "id": 113,
+    "category": "Sizden Klasik",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/zeytinyagli-havuc-pilaki-43076b7b-6579-4645-976c-3023513bf8f1.jpg"
+  },
+  {
+    "id": 114,
+    "category": "Sizden Sebze Yemeği",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/zeytinyagli-taze-bakla-b737f1a8-9ed8-466e-8525-a0605f307a4a.jpg"
+  },
+  {
+    "id": 115,
+    "category": "Sizden Tatlı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/chocolate-chips-cookies-2e34cd2e-1cdb-4a11-95b9-e6902b4b1734.jpg"
+  },
+  {
+    "id": 116,
+    "category": "Soğuk Alkollü Kokteyl",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/nane-likorlu-elma-50ab6297-adf3-4973-9ca3-f99ed8a026d5.jpg"
+  },
+  {
+    "id": 117,
+    "category": "Soğuk Alkolsüz Kokteyl",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/turk-kahveli-dondurma-7f494cca-60ae-4e8f-a891-5550e773500d.jpg"
+  },
+  {
+    "id": 118,
+    "category": "Soğuk İçecekler",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/sirkencebun-serbeti-51401b6a-0087-450c-b150-fd0359fb9f90.jpg"
+  },
+  {
+    "id": 119,
+    "category": "Soya Soslu",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/portakal-soslu-tavuk-8144389b-517e-4c25-adfe-c77f265d2869.jpg"
+  },
+  {
+    "id": 120,
+    "category": "Sulu Yemek",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/coq-au-vin-72cbfc60-bb27-4803-90a6-94ebc0464229.jpg"
+  },
+  {
+    "id": 121,
+    "category": "Sütlü Tatlılar",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kadayifli_muhallebi-93ce6541-7139-4501-8631-0b92df54b33d.jpg"
+  },
+  {
+    "id": 122,
+    "category": "Şarküteri",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/peynirli_ve_pastirmali_kolay_borek-b8ead554-f112-4ee9-9963-b18cd435b112.jpg"
+  },
+  {
+    "id": 123,
+    "category": "Şerbetli Tatlı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/koca-kari-gerdani-tatlisi-d66dd4c8-fc02-4776-b7d7-fff4df481cd7.jpg"
+  },
+  {
+    "id": 124,
+    "category": "Tahinli ve Pekmezli",
+    "image": "https://lezzet.blob.core.windows.net/images-xxlarge/sekersiz-sut-receli-dbd0feae-05ce-4b6b-87c8-30a3da79816b"
+  },
+  {
+    "id": 125,
+    "category": "Tart",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/sarimsakli-ve-balzamik-soslu-brokolili-tart-49fc36fe-9ba6-4f7e-8191-980d735eedc4.jpg"
+  },
+  {
+    "id": 126,
+    "category": "Tatlı Atıştırmalık",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/tiramisu-toplari-553c37a4-c2f4-4e8e-944f-b99be7dd7b90.jpg"
+  },
+  {
+    "id": 127,
+    "category": "Tatlı Hamur İşi",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/paskalya_coregi-5932ecad-aa93-473b-848c-41fd434f9ccf.jpg"
+  },
+  {
+    "id": 128,
+    "category": "Tatlı Kek",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/sade-cupcake-2aeb0324-6d0c-4a20-a717-c9a86995e852.jpg"
+  },
+  {
+    "id": 129,
+    "category": "Tatlı Kurabiye",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kaju-ve-uzumlu-biscotti-468dd844-9df4-44fd-9d01-adc3f125b116.jpg"
+  },
+  {
+    "id": 130,
+    "category": "Tavuk",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/tavada-tavuk-sis-c52c42fe-a396-495d-b649-563cf6e0e616.jpg"
+  },
+  {
+    "id": 131,
+    "category": "Tencere",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kuru-barbunya-yemegi-616350f7-17b6-4049-a398-cac2195dd6b5.jpg"
+  },
+  {
+    "id": 132,
+    "category": "Ton Balıklı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/ton_balikli_sandvic-892a7027-e105-4a1f-ab55-e6b2e9a1c760.jpg"
+  },
+  {
+    "id": 133,
+    "category": "Turşu",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/domatesli-biber-tursusu-c3090bd0-7f5d-4c21-aca8-475174cbb2df.jpg"
+  },
+  {
+    "id": 134,
+    "category": "Tuzlu Atıştırmalık",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/karides-cipsi-80ff0583-8d64-446d-8e1b-1925b4986ab1.jpg"
+  },
+  {
+    "id": 135,
+    "category": "Tuzlu Hamur İşi",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/pilavuna-9df82dd2-6031-4845-aa8a-5b886d7294a2.jpg"
+  },
+  {
+    "id": 136,
+    "category": "Tuzlu Kek",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/pastirmali-kahvalti-keki-e3f97e9d-9428-4ab5-807f-ab06889d0192.jpg"
+  },
+  {
+    "id": 137,
+    "category": "Tuzlu Kurabiye",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/biberiyeli-kraker-06330764-11b4-45ad-97e6-b8fc65d21196.jpg"
+  },
+  {
+    "id": 138,
+    "category": "Türk Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/muskatli-patates-humusu-56f3ed56-59a1-4871-9a50-7d7a135ee256.jpg"
+  },
+  {
+    "id": 139,
+    "category": "Uzakdoğu Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/pad-see-ew-9be494b7-b488-43c7-836c-619515d9d448.jpg"
+  },
+  {
+    "id": 140,
+    "category": "Vegan Yemek",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/pure-yataginda-yesil-mercimek-sote-34ebb577-e63c-4a1e-ac2d-091d69541617.jpg"
+  },
+  {
+    "id": 141,
+    "category": "Vejetaryen",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/dovmec-yemegi-b7aded97-74e7-4ade-ad38-63ff3e5e6ee9.jpg"
+  },
+  {
+    "id": 142,
+    "category": "Yaz",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/kabak-siyirma-078f6646-388a-4ab3-b9c2-4781be161675.jpg"
+  },
+  {
+    "id": 143,
+    "category": "Yılbaşı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/cikolatali-yilbasi-agaci-ad450bf2-4b12-4601-b26d-bf83c0605fb1.jpg"
+  },
+  {
+    "id": 144,
+    "category": "Yoğurtlu Çorba",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/cerkez_corbasi-eb9fa907-9a03-4c19-b7d8-5d581d9d7a64.jpg"
+  },
+  {
+    "id": 145,
+    "category": "Yoğurtlu",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/la-cervelle-de-canut-0fabd4cc-fb3b-4c55-9f8a-eb3f08c2d718.jpg"
+  },
+  {
+    "id": 146,
+    "category": "Yöresel Çorbalar",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/girar-corbasi-a39bfa95-860c-4b0b-8f5a-97a9f297ca80.jpg"
+  },
+  {
+    "id": 147,
+    "category": "Yulaflı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/erikli-crumble-3255f3d1-6032-498a-b0ed-1bd755c51598.jpg"
+  },
+  {
+    "id": 148,
+    "category": "Yumurtalı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge/cilbir-102367-2656c930-f530-40b8-a4f0-9e90a0cea1a9"
+  },
+  {
+    "id": 149,
+    "category": "Yunan Mutfağı",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/keskek-4b058c10-ab55-4f05-a985-f5ae3c7123f8.jpg"
+  },
+  {
+    "id": 150,
+    "category": "Zeytinli",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/yesil-zeytinli-pirinc-pilavi-b535cd39-68d4-4a83-b5de-2d6299925dfa.jpg"
+  },
+  {
+    "id": 151,
+    "category": "Zeytinyağlı Yemek",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/zeytinyagli-patlican-rulolari-6023f808-5c1f-4147-8d2b-337f52ab9e20.jpg"
+  }
+]
