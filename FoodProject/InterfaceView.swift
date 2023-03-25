@@ -55,34 +55,35 @@ struct InterfaceView: View {
                                 }placeholder: {
                                     Color.gray
                                 }
-                                .frame(width: .infinity,height: UIScreen.main.bounds.height * 0.275)
+                                .frame(width: UIScreen.main.bounds.width * 0.91,height: UIScreen.main.bounds.height * 0.275)
+                                .shadow(radius: 20)
+                                .overlay(
+                                        LinearGradient(
+                                            gradient: Gradient(
+                                                colors: [Color.clear, Color.black]),
+                                            startPoint: .center,
+                                            endPoint: .bottom)
+                                        .opacity(0.6)
+                                    )
+                                
                                 .clipShape(RoundedRectangle(cornerRadius: 20,style: .continuous))
                                 .overlay(RoundedRectangle(cornerRadius: 20).stroke(Color.black,lineWidth: 3))
-                                .shadow(radius: 20)
                                 .padding()
                                 Text(interface.category)
                                     .font(.largeTitle)
+                                    .bold()
                                     .offset(y: UIScreen.main.bounds.height * 0.09)
                                     .foregroundColor(.white)
-                                
                             }
                         }
-                        
                     }
                 }
                 .task {
                     await interfaceListViewModel.downloadInterfaces()
                 }.navigationTitle("Yemek Tarifleri")
-                
-                
             }
-            
         }
-        
     }
-    
-    
-    
     
     struct ContentView_Previews: PreviewProvider {
         static var previews: some View {

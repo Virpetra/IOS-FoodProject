@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2A42BB7329A2ADAA000BFFB5 /* ExplanationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A42BB7229A2ADAA000BFFB5 /* ExplanationView.swift */; };
+		2A74AAA329CE5A75001BBB1B /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A74AAA229CE5A75001BBB1B /* SplashView.swift */; };
 		2A9C338229994BF1007E9AB8 /* food2.json in Resources */ = {isa = PBXBuildFile; fileRef = 2A9C338129994BF1007E9AB8 /* food2.json */; };
 		2AB18C22299BA5B500BA2C53 /* DetailsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AB18C21299BA5B500BA2C53 /* DetailsModel.swift */; };
 		2ABA6FB8299ACA6B00673A4D /* SecondPaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ABA6FB7299ACA6B00673A4D /* SecondPaths.swift */; };
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		2A42BB7229A2ADAA000BFFB5 /* ExplanationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExplanationView.swift; sourceTree = "<group>"; };
+		2A74AAA229CE5A75001BBB1B /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
 		2A9C338129994BF1007E9AB8 /* food2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = food2.json; sourceTree = "<group>"; };
 		2AB18C21299BA5B500BA2C53 /* DetailsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsModel.swift; sourceTree = "<group>"; };
 		2ABA6FB7299ACA6B00673A4D /* SecondPaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondPaths.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				2AD473842996BBD700096C63 /* FoodProjectApp.swift */,
+				2A74AAA229CE5A75001BBB1B /* SplashView.swift */,
 				2AD473862996BBD700096C63 /* InterfaceView.swift */,
 				2AD2FCAB299A72B3006374D8 /* DetailsView.swift */,
 				2A42BB7229A2ADAA000BFFB5 /* ExplanationView.swift */,
@@ -201,6 +204,7 @@
 				2AD473872996BBD700096C63 /* InterfaceView.swift in Sources */,
 				2AD473942996BC1200096C63 /* InterfaceModel.swift in Sources */,
 				2AD2FCAC299A72B3006374D8 /* DetailsView.swift in Sources */,
+				2A74AAA329CE5A75001BBB1B /* SplashView.swift in Sources */,
 				2ABA6FB8299ACA6B00673A4D /* SecondPaths.swift in Sources */,
 				2AD473852996BBD700096C63 /* FoodProjectApp.swift in Sources */,
 				2AD4739C2996BE0B00096C63 /* Localservice.swift in Sources */,

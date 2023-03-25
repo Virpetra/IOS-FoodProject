@@ -28,7 +28,7 @@ struct ExplanationView: View {
                     } placeholder: {
                         Color.gray
                     }
-                    .frame(width: .infinity, height: UIScreen.main.bounds.height * 0.275)
+                    .frame(width: UIScreen.main.bounds.width * 0.91, height: UIScreen.main.bounds.height * 0.275)
                     .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
                     .overlay(RoundedRectangle(cornerRadius: 20).stroke(Color.black, lineWidth: 3))
                     .shadow(radius: 20)
@@ -38,16 +38,23 @@ struct ExplanationView: View {
                         .foregroundColor(.blue)
                         .padding(.bottom, 10)
                     HStack{
-                        Text(explanation.fooddetail?.map { $0.rawValue }.joined(separator: "  ") ?? "")
+                        Image(systemName: "person.2.fill")
+                        Text(explanation.fooddetail?[0].rawValue ?? "")
+                        Image(systemName: "clock.fill")
+                        Text(explanation.fooddetail?[1].rawValue ?? "")
+                        Image(systemName: "stopwatch.fill")
+                        Text(explanation.fooddetail?[2].rawValue ?? "")
                     }
+
                     .padding(.bottom, 10)
                     VStack{
-                            Text(explanation.foodtitle ?? "")
-                                .foregroundColor(.blue)
-                                .font(.title3)
-                                .bold()
-                        Spacer()
-                        
+                        Text(explanation.foodtitle ?? "")
+                            .foregroundColor(.blue)
+                            .font(.title3)
+                            .bold()
+                    Spacer()
+                    
+                      
                         if let ingredients = explanation.foodıngredients {
                             VStack(alignment: .center, spacing: 5) {
                                 ForEach(ingredients, id: \.self) { ingredient in

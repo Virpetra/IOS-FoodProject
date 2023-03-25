@@ -11,7 +11,7 @@ import SwiftUI
 struct FoodProjectApp: App {
     var body: some Scene {
         WindowGroup {
-            InterfaceView()
+            SplashView()
         }
     }
 }
